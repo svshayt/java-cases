@@ -1,0 +1,3 @@
+project:
+  mq:
+    enabled: false
