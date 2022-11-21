@@ -1,3 +1,6 @@
+notification:
+  service: email
+
 project:
   mq:
     enabled: false
